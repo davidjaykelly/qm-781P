@@ -19,6 +19,10 @@ $ cd foldername
 $ pip3 install -U -r requirements.txt 
 ```
 
+Obtain a TfL API key and API ID from: https://api-portal.tfl.gov.uk/login
+
+Edit config.py to include the key and ID, save this file.
+
 Start the flask app:
 
 ```sh
